@@ -50,7 +50,7 @@ In this screenrecording, I open IIS back up to open up osTicket's website. This 
 
 
 
-https://github.com/user-attachments/assets/21b243a4-d0e8-4d64-80b8-effd826aef20
+![Screenshot 2024-07-31 131627](https://github.com/user-attachments/assets/51d2e8f3-2363-4ca8-b48a-f8b01c9041df)
 
 
 
