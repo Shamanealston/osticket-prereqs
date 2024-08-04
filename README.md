@@ -58,8 +58,7 @@ In this screenrecording, I open IIS back up to open up osTicket's website. This 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+This screenshot shows the completion of a database I set up through HeidiSQL. HeidiSQL links the prereq, MySQL's server and allows me to set up the database that osTicket will use. 
 
 ![OsTicket Installed](https://github.com/user-attachments/assets/82d3ce3a-e5cd-49ae-b4c4-d81ace365d0b)
 
