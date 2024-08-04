@@ -20,11 +20,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Internet Information Services
+- PHP Manager 
+- Rewrite Moduel 
+- MySQL
+
+![Prereqs](https://github.com/user-attachments/assets/c433c8b4-b294-42d8-b575-3f6d21915f40)
 
 <h2>Installation Steps</h2>
 
@@ -33,8 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![rename osticket](https://github.com/user-attachments/assets/f4f02ea2-9555-4507-94fa-ba22ad812699)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In these two screenshots, I extract and copy osticket's upload folder into the wwwroot folder. This folder is the virtual machine's web server's main folder. Once all the files are copied into the wwwroot folder, I rename the upload folder to "osticket". 
 <br />
 
 
@@ -45,8 +45,7 @@ https://github.com/user-attachments/assets/91bd0711-3240-4c00-b55a-427b493c27f6
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In this screenrecording, I open IIS back up to open up osTicket's website. This shows that osticket is now installed and running. </p>
 <br />
 
 
